@@ -1,0 +1,10 @@
+class Item 
+{
+private int quantity;
+protected double chargeAmount;
+protected DateTime dateInitiated;
+protected DateTime dateDue;
+
+
+
+}
