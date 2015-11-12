@@ -1,0 +1,13 @@
+class Order 
+{
+private int quantity;  
+protected double chargeAmount;
+protected DateTime dateInitiated;
+protected DateTime dateDue;
+private int OrderID;
+//image for the order needs to be included */
+
+
+
+
+}
