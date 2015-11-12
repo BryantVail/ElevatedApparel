@@ -1,0 +1,21 @@
+
+
+
+class Item
+{
+  //Instance Variables
+  protected string size;
+  protected int purchaseQuantity;
+
+  //Ink Array & instance variable
+  protected int inkColorQuantity;
+  protected string[] inkColorSelection = new string[inkColorQuantity];
+      /* Method for Color string
+        for(int i = 0; i> inkColorQuantity; i ++)
+          {
+            InkColorSelection[InkColorQuantity]
+          }
+
+
+
+}
