@@ -1,10 +1,20 @@
 class Order 
 {
+
+//Order Credentials
+protected string orderName;
+protected string contact; //Save contacts, insert object string
 private int quantity;  
-protected double chargeAmount;
+private double estimatedExpense; //Method: (qty)* (Item.Cost)
+protected double chargeAmount; //Method: 
+private int OrderID; //Method:([ItemType][qty][DateInitiated]"x"[DateDue]
+
+//Dates
 protected DateTime dateInitiated;
 protected DateTime dateDue;
-private int OrderID;
+
+//Method Variables
+
 //image for the order needs to be included */
 
 
