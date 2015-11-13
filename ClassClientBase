@@ -1,0 +1,14 @@
+
+
+Class Client
+{
+    protected string contactName;
+    private string companyName;
+    private string addressStreetNumber;
+    private string addressStreetName;
+    private string addressStreetType;
+    private string addressCounty;
+    private string addressState;
+    private string addressCity;
+    private string addressZip;
+}
